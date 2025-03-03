@@ -1,2 +1,2 @@
 # navigator
-an open-source goal and daily arrangement app with AI Agent
+An open-source goal achievement and schedule management app with AI agent assistance.
